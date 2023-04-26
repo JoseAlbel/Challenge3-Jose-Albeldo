@@ -1,13 +1,34 @@
 body {
   height: 100%;
+  background-color: ;
 }
 label {
   display: block;
+}
+h1 {
+  background-color: #279989;
+  display: inline-block;
 }
 
 imput {
   display: block;
 }
+
 .buttonsend {
   display: flow-root;
+}
+nav {
+  display: inline-block;
+}
+
+.linkside {
+  display: inline-block;
+}
+
+form {
+  background-color: #ffc845;
+}
+.info {
+  display: inline-block;
+  background-color: #44a080;
 }
