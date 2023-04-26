@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  padding: opx;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+label {
+  display: block;
+  align-self: center;
+}
+h1 {
+  display: inline-block;
+}
+h2 {
+  margin: 0px;
+  padding: 20px;
+  padding-left: 0px;
+}
+a {
+  align-self: center;
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+button {
+  border-radius: 10px;
+  height: 50%;
+  align-self: center;
+}
+
+imput {
+  display: block;
+}
+
+.buttonsend {
+  display: flow-root;
+  margin-top: 20px;
+}
+nav {
+  display: inline-block;
+}
+
+header {
+  display: flex;
+  background-color: aqua;
+  justify-content: space-around;
+}
+
+form {
+  background-color: #ffc845;
+  height: 100%;
+  padding: 30px;
+}
+.info {
+  display: flex;
+  background-color: #44a080;
+  justify-content: space-around;
+}
